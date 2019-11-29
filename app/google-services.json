@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641242456175",
+    "firebase_url": "https://chat-951b0.firebaseio.com",
+    "project_id": "chat-951b0",
+    "storage_bucket": "chat-951b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641242456175:android:499bf69963de5f1536ed9a",
+        "android_client_info": {
+          "package_name": "com.devahmed.firebasesimplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641242456175-gtikr0ml10gv25sdcv4q4vrb9iurqhgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbbQIuAOiJ_2_kj9eZy34H8Yz7ZkU0xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641242456175-gtikr0ml10gv25sdcv4q4vrb9iurqhgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
